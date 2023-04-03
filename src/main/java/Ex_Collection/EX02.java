@@ -1,4 +1,4 @@
-package Ex_2;
+package Ex_Collection;
 
 import java.util.Scanner;
 
