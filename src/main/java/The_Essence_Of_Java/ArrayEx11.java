@@ -11,7 +11,7 @@ public class ArrayEx11 {
         }//end of for1
         System.out.println();
         for(int i=0; i < numArr.length; i++){
-            counter[numArr[i]]++; // numArr[i]의 값이 그 숫자의 couter[]을 하나 키워서 숫자의 개수를 알수있다.
+            counter[numArr[i]]++; // numArr[i]의 값이 그 숫자의 counter[]을 하나 키워서 숫자의 개수를 알수있다.
         }// end of for2
         for(int i=0; i < numArr.length; i++){
             System.out.println(i +"의 개수 : " + counter[i]  );
