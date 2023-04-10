@@ -1,4 +1,4 @@
-package The_Essence_Of_Java;
+package The_Essence_Of_Java.ch5;
 
 public class ArrayEx3 {
     public static void main(String[] args) {
