@@ -7,7 +7,7 @@ public class OperatorEx23 {
 
         System.out.printf("\"abc\"==\"abc\" ? %b%n", "abc"=="abc");
         System.out.printf(" str1==\"abc\" ? %b%n", str1=="abc");
-        System.out.printf(" str2==\"abc\" ? %b%n", str2=="abc"); // false 나오는 이유 == 내용은 같지만 객체가 달라서
+        System.out.printf(" str2==\"abc\" ? %b%n", str2=="abc"); // false 나오는 이유 == 내용은 같지만 객체가 달라서 ? 뭔 뜻이지 질문
         System.out.printf("str1.equals(\"abc\") ? %b%n", str1.equals("abc"));
         System.out.printf("str2.equals(\"abc\") ? %b%n", str2.equals("abc"));
         System.out.printf("str2.equals(\"ABC\") ? %b%n", str2.equals("ABC"));
