@@ -14,4 +14,3 @@ public class MyMathTest {
         System.out.println("divide(5L, 3L) = " + result4);
     }
 }
- 
