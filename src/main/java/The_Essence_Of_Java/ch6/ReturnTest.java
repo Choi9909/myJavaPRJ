@@ -12,8 +12,8 @@ public class ReturnTest {
         System.out.println(result2[0]);
     }
 
-    int add(int a, int b){
-        return a + b;
+    int add(int b, int c){
+        return b + c;
     }
     void add(int a, int b, int[] result){
         result[0] = a + b;

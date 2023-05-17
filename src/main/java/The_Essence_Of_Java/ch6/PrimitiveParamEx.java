@@ -11,8 +11,8 @@ public class PrimitiveParamEx {
         System.out.println("main() : x = " + d.x);
     }
 
-    static void change(int x) { // 기본형 매개변수
-        x = 1000;
-        System.out.println("change() : x = " + x);
+    static void change(int y) { // 기본형 매개변수
+        y = 1000;
+        System.out.println("change() : x = " + y);
     }
 }
